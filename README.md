@@ -3,19 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
     <title>Your Name - Portfolio</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Montserrat', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #fce8d5;
         }
 
         header {
-            background-color: #333;
+            background-color: #3498db;
             color: white;
             text-align: center;
+            transition: background-color 0.5s ease-in-out;
             padding: 1em;
         }
 
@@ -23,15 +26,16 @@
             max-width: 800px;
             margin: 2em auto;
             padding: 2em;
-            background-color: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
+            transition: transform 0.3s ease-in-out;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
             border-radius: 5px;
         }
 
         footer {
             text-align: center;
             padding: 1em;
-            background-color: #333;
+            background-color: #3498db;
             color: white;
         }
     </style>

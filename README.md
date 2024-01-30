@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -42,7 +41,7 @@
 
     <header>
         <h1>Hemanth Mahankali</h1>
-        <p>Web Developer | LinkedIn: <a href="https://www.linkedin.com/in/hemanth-kumar-mahankali-051a4875" target="_blank">Hemanth Kumar Mahankali</a></p>
+        <p>Data Engineer | LinkedIn: <a href="https://www.linkedin.com/in/hemanth-kumar-mahankali-051a4875" target="_blank">Hemanth Kumar Mahankali</a></p>
     </header>
 
     <section>

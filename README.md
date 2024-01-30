@@ -47,7 +47,13 @@
 
     <section>
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <p>As a Data Engineer at Telka LLC, an Agyle Networks Company, I work with large and complex datasets to create, maintain, and optimize data pipelines and solutions. I use SQL, Python, and WEB API to extract, transform, and load data from various sources, and to support data analysis and visualization.
+
+Before joining Telka LLC in June 2023, I gained valuable experience as a Data Analyst at Accenture in India, where I performed data quality checks, data cleansing, and data manipulation using SQL and Python. I also assisted in developing dashboards and reports using Tableau and Power BI. Additionally, I completed multiple certifications in Business English, Business Analysis, and Linux Command Line to enhance my communication, problem-solving, and technical skills.
+
+I graduated from KL University in April 2019 with a Bachelor's degree in Business Administration, where I learned the fundamentals of databases. I also worked as a Graduate Teaching Assistant at the University of North Texas G. Brint Ryan College of Business from January 2022 to May 2023, where I helped students with assignments, projects, and exams related to data analysis and business intelligence.
+
+I am passionate about data engineering and web development, and I enjoy learning new technologies and tools to improve my skills and deliver high-quality solutions. I am also a team player who values collaboration, feedback, and innovation. My goal is to leverage my data engineering expertise and domain knowledge to help Telka LLC achieve its vision and objectives.</p>
 
         <h2>LinkedIn Profile</h2>
         <p>Embed your LinkedIn profile or provide additional details.</p>
@@ -57,7 +63,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; 2024 Hemanth Mahankali</p>
     </footer>
 
 </body>
